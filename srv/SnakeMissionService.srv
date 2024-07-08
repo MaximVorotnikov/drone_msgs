@@ -1,0 +1,7 @@
+drone_msgs/Goal point1
+drone_msgs/Goal point2
+float32 period
+
+---
+
+drone_msgs/Mission snake_mission
